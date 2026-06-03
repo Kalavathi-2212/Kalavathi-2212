@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Kalavathi Kummari
+🎓 B.Tech CSE Student at Malla Reddy Engineering College for Women
+🌱 Currently learning Java, Data Structures and Web Development
 
-<!--
-**Kalavathi-2212/Kalavathi-2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills:
+* Java
+* HTML
+* CSS
+* SQL
+* Git
+* GitHub
 
-Here are some ideas to get you started:
+📚 Interested in Software Development and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+
+* LinkedIn: https://www.linkedin.com/in/kalavathi-kummari-757a843aa/
+
+⭐ Thanks for visiting my GitHub profile!
+
