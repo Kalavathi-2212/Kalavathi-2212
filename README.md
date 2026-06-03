@@ -13,7 +13,6 @@
 📚 Interested in Software Development and Problem Solving
 
 📫 Connect with me:
-
 * LinkedIn: https://www.linkedin.com/in/kalavathi-kummari-757a843aa/
 
 ⭐ Thanks for visiting my GitHub profile!
