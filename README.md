@@ -1,8 +1,13 @@
-# Hi 👋, I'm Kalavathi Kummari
-🎓 B.Tech CSE Student at Malla Reddy Engineering College for Women
-🌱 Currently learning Java, Data Structures and Web Development
+# 👋 Hi, I'm Kalavathi Kummari
+### 🎓 B.Tech CSE Student
 
-💻 Skills:
+## 🌱 About Me
+* Currently learning Java
+* Learning HTML, CSS and SQL
+* Interested in Software Development
+* Building my coding skills step by step
+
+## 💻 Skills
 * Java
 * HTML
 * CSS
@@ -10,10 +15,9 @@
 * Git
 * GitHub
 
-📚 Interested in Software Development and Problem Solving
-
-📫 Connect with me:
-* LinkedIn: https://www.linkedin.com/in/kalavathi-kummari-757a843aa/
+## 📫 Connect With Me
+LinkedIn:
+https://www.linkedin.com/in/kalavathi-kummari-757a843aa/
 
 ⭐ Thanks for visiting my GitHub profile!
 
