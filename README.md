@@ -2,8 +2,8 @@
 ### 🎓 B.Tech CSE Student
 
 ## 🌱 About Me
-* Currently learning Java
-* Learning HTML, CSS and SQL
+* Currently learning Java with DSA
+* Skills : HTML, CSS and MySQL
 * Interested in Software Development
 * Building my coding skills step by step
 
